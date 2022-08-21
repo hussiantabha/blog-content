@@ -7,3 +7,7 @@ I am Hussain a 20yo studying BBA and *doing development* at the same time.
 _____________________________________________________________________
 - Point One 
 - Poitn rew
+
+```<html>
+const main = () => {}
+</html>```
